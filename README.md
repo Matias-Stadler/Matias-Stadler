@@ -1,5 +1,3 @@
-banner
----
 # WELCOME , I'm Matias Stadler 
 banner
 ---
